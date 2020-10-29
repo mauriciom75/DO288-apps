@@ -7,7 +7,7 @@ pipeline {
       node {
 
         //TODO: Add label for the Maven jenkins agent
-   	labe 'master'
+   	label 'master'
       }
     }
 
